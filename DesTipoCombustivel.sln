@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesTipoCombustivel", "DesTipoCombustivel\DesTipoCombustivel.csproj", "{A1C3C9C6-13B1-42BF-BDA4-86C8C427D95A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C3C9C6-13B1-42BF-BDA4-86C8C427D95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C3C9C6-13B1-42BF-BDA4-86C8C427D95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C3C9C6-13B1-42BF-BDA4-86C8C427D95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C3C9C6-13B1-42BF-BDA4-86C8C427D95A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B3AD9D8-9EF2-4DAF-B730-174451393C48}
+	EndGlobalSection
+EndGlobal
